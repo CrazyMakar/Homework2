@@ -65,5 +65,6 @@ public class Main {
         var moreHours = moreWorkers * oneWorkerHours;
         System.out.println("Если в компании работает " + moreWorkers + " человек, то всего " + moreHours +
                  " часов работы может быть поделено между сотрудниками");
+
     }
 }
